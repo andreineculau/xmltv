@@ -1,0 +1,12 @@
+(^|/)\.\#
+(^|/)CVS(/|$)
+(^|/)do_not_dist(/|$)
+^ChangeLog\.old$
+^MANIFEST\.SKIP$
+^attic/
+^mkdist$
+^todo/
+^#.*#$
+\.cache$
+\.orig$
+grab/eu_epgdata/build_channel_ids
